@@ -1,8 +1,9 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
     xmlns:s4="http://schemas.microsoft.com/appx/appinstaller/2018"
-    Uri=""
+    Uri="https://cfahl320.github.io/Extention/PrepIT.appinstaller"
     Version="1.0.0.0">
 
   <MainPackage
@@ -10,13 +11,11 @@
       Publisher="CN=cfahl"
       Version="1.0.0.0"
       ProcessorArchitecture="x64"
-      Uri="https://YOUR-GITHUB-PAGES-DOMAIN/PrepIT_1.0.0.0_x64.msix" />
+      Uri="https://github.com/cfahl320/Extention/releases/download/PrepIT/PrepIT.Package_1.0.0.0_x64.msix" />
 
   <UpdateSettings>
-    <!-- Check every time the app launches, if at least 4 hours have passed -->
     <OnLaunch HoursBetweenUpdateChecks="4" ShowPrompt="false" />
-    
-    <!-- Also allow background (every ~8 hours) auto-update with no UI -->
     <s4:AutomaticBackgroundTask />
   </UpdateSettings>
+
 </AppInstaller>
