@@ -7,7 +7,7 @@
 
   <MainPackage
       Name="34edf17f-21ed-4be6-b4f3-c52d749b12e0"
-      Publisher="CN=cfahl"
+      Publisher="CN=PrepIT"
       Version="1.0.0.0"
       ProcessorArchitecture="x64"
       Uri="https://github.com/cfahl320/Extention/releases/download/PrepIT/PrepIT.Package_1.0.0.0_x64.msix" />
