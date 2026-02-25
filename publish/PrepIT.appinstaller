@@ -3,12 +3,12 @@
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
     xmlns:s4="http://schemas.microsoft.com/appx/appinstaller/2018"
     Uri="https://cfahl320.github.io/Extention/PrepIT.appinstaller"
-    Version="1.0.0.0">
+    Version="1.1.0.0">
 
   <MainPackage
       Name="34edf17f-21ed-4be6-b4f3-c52d749b12e0"
       Publisher="CN=PrepIT"
-      Version="1.0.0.0"
+      Version="1.1.0.0"
       ProcessorArchitecture="x64"
       Uri="https://github.com/cfahl320/Extention/releases/download/PrepIT/PrepIT.Package_1.1.0.0_x64.msix" />
 
