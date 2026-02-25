@@ -10,7 +10,7 @@
       Publisher="CN=PrepIT"
       Version="1.0.0.0"
       ProcessorArchitecture="x64"
-      Uri="https://github.com/cfahl320/Extention/releases/download/PrepIT/PrepIT.Package_1.0.0.0_x64.msix" />
+      Uri="https://github.com/cfahl320/Extention/releases/download/PrepIT/PrepIT.Package_1.1.0.0_x64.msix" />
 
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="4" ShowPrompt="false" />
